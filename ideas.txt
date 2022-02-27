@@ -1,3 +1,0 @@
-IDEAS:
-	-Cuál es mi IP?
-	-Estadísticas del COVID por país + botón de mi país
