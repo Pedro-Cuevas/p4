@@ -22,7 +22,6 @@ let displayData = async(countryCode) => {
 /* Function that fetches the COVID-19
 * data of a given country
 */
-
 let fetchData = async(countryCode) => {
 	let url = "https://api.covid19api.com/summary"
 	
