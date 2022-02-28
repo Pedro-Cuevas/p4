@@ -9,7 +9,7 @@
 
 En la web de Telefónica creada para la p3, he añadido una página nueva con un buscador de datos de la pandemia: [https://pedro-cuevas.github.io/p4/info_covid.html](https://pedro-cuevas.github.io/p4/info_covid.html)
 
-El usuario tiene la opción de introducir el país que desea buscar, o alternativamente puede pulsar un botón que detecta el país del usuario alternativamente, por medio de su IP pública. En caso de error, se mostrará un mensaje correspondiente en lugar de los contadores de datos.
+El usuario tiene la opción de introducir el país que desea buscar, o alternativamente puede pulsar un botón que detecta el país del usuario automáticamente, por medio de su IP pública. En caso de error, se mostrará un mensaje correspondiente en lugar de los contadores de datos.
 
 ## APIs utlizadas
 
