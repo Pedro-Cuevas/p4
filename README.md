@@ -19,7 +19,7 @@ El usuario tiene la opción de introducir el país que desea buscar, o alternati
 
 ## Otros recursos utilizados
 
-Para poder programar de manera más comoda, he utlizado la librería jquery.
+Para poder programar de manera más cómoda, he utilizado la librería jquery.
 
 ## Archivos relevantes
 
